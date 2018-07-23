@@ -1,0 +1,527 @@
+{
+  "android" : {
+    "duration" : 455320,
+    "frequency" : 0,
+    "packageName" : "android"
+  },
+  "br,com,dinostalgia" : {
+    "duration" : 12126138,
+    "frequency" : 0,
+    "packageName" : "br.com.dinostalgia"
+  },
+  "cn,wps,moffice_eng" : {
+    "duration" : 5823987,
+    "frequency" : 0,
+    "packageName" : "cn.wps.moffice_eng"
+  },
+  "com,DargomStudio,GunboundM,Global" : {
+    "duration" : 662808,
+    "frequency" : 0,
+    "packageName" : "com.DargomStudio.GunboundM.Global"
+  },
+  "com,UCMobile,intl" : {
+    "duration" : 210282197,
+    "frequency" : 2,
+    "packageName" : "com.UCMobile.intl"
+  },
+  "com,android,bluetooth" : {
+    "duration" : 1468,
+    "frequency" : 0,
+    "packageName" : "com.android.bluetooth"
+  },
+  "com,android,browser" : {
+    "duration" : 2628823,
+    "frequency" : 0,
+    "packageName" : "com.android.browser"
+  },
+  "com,android,calculator2" : {
+    "duration" : 104073,
+    "frequency" : 0,
+    "packageName" : "com.android.calculator2"
+  },
+  "com,android,calendar" : {
+    "duration" : 228014,
+    "frequency" : 0,
+    "packageName" : "com.android.calendar"
+  },
+  "com,android,camera" : {
+    "duration" : 39983093,
+    "frequency" : 0,
+    "packageName" : "com.android.camera"
+  },
+  "com,android,cellbroadcastreceiver" : {
+    "duration" : 6777,
+    "frequency" : 0,
+    "packageName" : "com.android.cellbroadcastreceiver"
+  },
+  "com,android,contacts" : {
+    "duration" : 792766,
+    "frequency" : 0,
+    "packageName" : "com.android.contacts"
+  },
+  "com,android,deskclock" : {
+    "duration" : 38887035,
+    "frequency" : 5,
+    "packageName" : "com.android.deskclock"
+  },
+  "com,android,email" : {
+    "duration" : 2954,
+    "frequency" : 0,
+    "packageName" : "com.android.email"
+  },
+  "com,android,fileexplorer" : {
+    "duration" : 802350,
+    "frequency" : 0,
+    "packageName" : "com.android.fileexplorer"
+  },
+  "com,android,htmlviewer" : {
+    "duration" : 1163342,
+    "frequency" : 0,
+    "packageName" : "com.android.htmlviewer"
+  },
+  "com,android,incallui" : {
+    "duration" : 323148,
+    "frequency" : 0,
+    "packageName" : "com.android.incallui"
+  },
+  "com,android,mms" : {
+    "duration" : 2387335,
+    "frequency" : 0,
+    "packageName" : "com.android.mms"
+  },
+  "com,android,packageinstaller" : {
+    "duration" : 478465,
+    "frequency" : 0,
+    "packageName" : "com.android.packageinstaller"
+  },
+  "com,android,phone" : {
+    "duration" : 560907,
+    "frequency" : 0,
+    "packageName" : "com.android.phone"
+  },
+  "com,android,providers,downloads" : {
+    "duration" : 2371,
+    "frequency" : 0,
+    "packageName" : "com.android.providers.downloads"
+  },
+  "com,android,providers,downloads,ui" : {
+    "duration" : 74489,
+    "frequency" : 0,
+    "packageName" : "com.android.providers.downloads.ui"
+  },
+  "com,android,server,telecom" : {
+    "duration" : 5653,
+    "frequency" : 0,
+    "packageName" : "com.android.server.telecom"
+  },
+  "com,android,settings" : {
+    "duration" : 9165945,
+    "frequency" : 6,
+    "packageName" : "com.android.settings"
+  },
+  "com,android,soundrecorder" : {
+    "duration" : 32113,
+    "frequency" : 0,
+    "packageName" : "com.android.soundrecorder"
+  },
+  "com,android,systemui" : {
+    "duration" : 43243,
+    "frequency" : 0,
+    "packageName" : "com.android.systemui"
+  },
+  "com,android,thememanager" : {
+    "duration" : 24785,
+    "frequency" : 0,
+    "packageName" : "com.android.thememanager"
+  },
+  "com,android,vending" : {
+    "duration" : 9232573,
+    "frequency" : 0,
+    "packageName" : "com.android.vending"
+  },
+  "com,android,vpndialogs" : {
+    "duration" : 4180,
+    "frequency" : 0,
+    "packageName" : "com.android.vpndialogs"
+  },
+  "com,asyncbyte,moneytracker" : {
+    "duration" : 2155790,
+    "frequency" : 0,
+    "packageName" : "com.asyncbyte.moneytracker"
+  },
+  "com,autokuota,app" : {
+    "duration" : 12214802,
+    "frequency" : 0,
+    "packageName" : "com.autokuota.app"
+  },
+  "com,berace,racefit" : {
+    "duration" : 999105,
+    "frequency" : 0,
+    "packageName" : "com.berace.racefit"
+  },
+  "com,bukalapak,android" : {
+    "duration" : 6690166,
+    "frequency" : 0,
+    "packageName" : "com.bukalapak.android"
+  },
+  "com,burakgon,dnschanger" : {
+    "duration" : 149314,
+    "frequency" : 0,
+    "packageName" : "com.burakgon.dnschanger"
+  },
+  "com,ciptaproperty" : {
+    "duration" : 801602,
+    "frequency" : 0,
+    "packageName" : "com.ciptaproperty"
+  },
+  "com,cleanmaster,mguard" : {
+    "duration" : 353998,
+    "frequency" : 0,
+    "packageName" : "com.cleanmaster.mguard"
+  },
+  "com,cleanmaster,security" : {
+    "duration" : 37705,
+    "frequency" : 0,
+    "packageName" : "com.cleanmaster.security"
+  },
+  "com,duapps,recorder" : {
+    "duration" : 479304,
+    "frequency" : 0,
+    "packageName" : "com.duapps.recorder"
+  },
+  "com,duokan,phone,remotecontroller" : {
+    "duration" : 437659,
+    "frequency" : 0,
+    "packageName" : "com.duokan.phone.remotecontroller"
+  },
+  "com,estrongs,android,pop" : {
+    "duration" : 1971965,
+    "frequency" : 0,
+    "packageName" : "com.estrongs.android.pop"
+  },
+  "com,example,android,basicnotifications" : {
+    "duration" : 94648,
+    "frequency" : 0,
+    "packageName" : "com.example.android.basicnotifications"
+  },
+  "com,example,android,bluetoothlegatt" : {
+    "duration" : 9288009,
+    "frequency" : 0,
+    "packageName" : "com.example.android.bluetoothlegatt"
+  },
+  "com,example,meizar,learningstyleapp" : {
+    "duration" : 11105346,
+    "frequency" : 6,
+    "packageName" : "com.example.meizar.learningstyleapp"
+  },
+  "com,example,meizar,test" : {
+    "duration" : 27175004,
+    "frequency" : 0,
+    "packageName" : "com.example.meizar.test"
+  },
+  "com,example,meizar,tj_tracing" : {
+    "duration" : 2197998,
+    "frequency" : 0,
+    "packageName" : "com.example.meizar.tj_tracing"
+  },
+  "com,example,ridho,pci_evo" : {
+    "duration" : 3232918,
+    "frequency" : 0,
+    "packageName" : "com.example.ridho.pci_evo"
+  },
+  "com,fitness,cmh,body,building" : {
+    "duration" : 1055520,
+    "frequency" : 0,
+    "packageName" : "com.fitness.cmh.body.building"
+  },
+  "com,fotoable,faceswap,c403" : {
+    "duration" : 123561,
+    "frequency" : 0,
+    "packageName" : "com.fotoable.faceswap.c403"
+  },
+  "com,freeletics,lite" : {
+    "duration" : 84095,
+    "frequency" : 0,
+    "packageName" : "com.freeletics.lite"
+  },
+  "com,gojek,app" : {
+    "duration" : 428688,
+    "frequency" : 0,
+    "packageName" : "com.gojek.app"
+  },
+  "com,google,android,apps,classroom" : {
+    "duration" : 169030,
+    "frequency" : 0,
+    "packageName" : "com.google.android.apps.classroom"
+  },
+  "com,google,android,apps,docs" : {
+    "duration" : 2531060,
+    "frequency" : 0,
+    "packageName" : "com.google.android.apps.docs"
+  },
+  "com,google,android,apps,maps" : {
+    "duration" : 4221255,
+    "frequency" : 0,
+    "packageName" : "com.google.android.apps.maps"
+  },
+  "com,google,android,gm" : {
+    "duration" : 2863213,
+    "frequency" : 0,
+    "packageName" : "com.google.android.gm"
+  },
+  "com,google,android,gms" : {
+    "duration" : 1510452,
+    "frequency" : 0,
+    "packageName" : "com.google.android.gms"
+  },
+  "com,google,android,gms,location,sample,locationupdates" : {
+    "duration" : 1428488,
+    "frequency" : 0,
+    "packageName" : "com.google.android.gms.location.sample.locationupdates"
+  },
+  "com,google,android,gms,location,sample,locationupdatesforegroundservice" : {
+    "duration" : 79708,
+    "frequency" : 0,
+    "packageName" : "com.google.android.gms.location.sample.locationupdatesforegroundservice"
+  },
+  "com,google,android,inputmethod,latin" : {
+    "duration" : 2054,
+    "frequency" : 0,
+    "packageName" : "com.google.android.inputmethod.latin"
+  },
+  "com,google,android,play,games" : {
+    "duration" : 48496,
+    "frequency" : 0,
+    "packageName" : "com.google.android.play.games"
+  },
+  "com,google,android,youtube" : {
+    "duration" : 820233,
+    "frequency" : 0,
+    "packageName" : "com.google.android.youtube"
+  },
+  "com,grabtaxi,passenger" : {
+    "duration" : 296429,
+    "frequency" : 0,
+    "packageName" : "com.grabtaxi.passenger"
+  },
+  "com,graph,weather,forecast,channel" : {
+    "duration" : 365329,
+    "frequency" : 0,
+    "packageName" : "com.graph.weather.forecast.channel"
+  },
+  "com,h8games,helixjump" : {
+    "duration" : 11862354,
+    "frequency" : 0,
+    "packageName" : "com.h8games.helixjump"
+  },
+  "com,instagram,android" : {
+    "duration" : 501176259,
+    "frequency" : 1,
+    "packageName" : "com.instagram.android"
+  },
+  "com,joeykrim,rootcheck" : {
+    "duration" : 105552,
+    "frequency" : 0,
+    "packageName" : "com.joeykrim.rootcheck"
+  },
+  "com,kingroot,kinguser" : {
+    "duration" : 271567,
+    "frequency" : 0,
+    "packageName" : "com.kingroot.kinguser"
+  },
+  "com,koushikdutta,vysor" : {
+    "duration" : 23840,
+    "frequency" : 0,
+    "packageName" : "com.koushikdutta.vysor"
+  },
+  "com,lauan,smsentwo" : {
+    "duration" : 118418237,
+    "frequency" : 0,
+    "packageName" : "com.lauan.smsentwo"
+  },
+  "com,lenovo,anyshare,gps" : {
+    "duration" : 414938,
+    "frequency" : 0,
+    "packageName" : "com.lenovo.anyshare.gps"
+  },
+  "com,libersoft,circus" : {
+    "duration" : 612186,
+    "frequency" : 0,
+    "packageName" : "com.libersoft.circus"
+  },
+  "com,mfashiongallery,emag" : {
+    "duration" : 4609,
+    "frequency" : 0,
+    "packageName" : "com.mfashiongallery.emag"
+  },
+  "com,miui,barcodescanner" : {
+    "duration" : 23892,
+    "frequency" : 0,
+    "packageName" : "com.miui.barcodescanner"
+  },
+  "com,miui,cleanmaster" : {
+    "duration" : 20749,
+    "frequency" : 0,
+    "packageName" : "com.miui.cleanmaster"
+  },
+  "com,miui,cloudservice" : {
+    "duration" : 58747,
+    "frequency" : 0,
+    "packageName" : "com.miui.cloudservice"
+  },
+  "com,miui,compass" : {
+    "duration" : 97533,
+    "frequency" : 0,
+    "packageName" : "com.miui.compass"
+  },
+  "com,miui,gallery" : {
+    "duration" : 4941767,
+    "frequency" : 0,
+    "packageName" : "com.miui.gallery"
+  },
+  "com,miui,home" : {
+    "duration" : 133639312,
+    "frequency" : 17,
+    "packageName" : "com.miui.home"
+  },
+  "com,miui,networkassistant" : {
+    "duration" : 32370,
+    "frequency" : 0,
+    "packageName" : "com.miui.networkassistant"
+  },
+  "com,miui,notes" : {
+    "duration" : 666011,
+    "frequency" : 0,
+    "packageName" : "com.miui.notes"
+  },
+  "com,miui,player" : {
+    "duration" : 674072,
+    "frequency" : 0,
+    "packageName" : "com.miui.player"
+  },
+  "com,miui,powerkeeper" : {
+    "duration" : 12075,
+    "frequency" : 0,
+    "packageName" : "com.miui.powerkeeper"
+  },
+  "com,miui,securitycenter" : {
+    "duration" : 48399,
+    "frequency" : 0,
+    "packageName" : "com.miui.securitycenter"
+  },
+  "com,miui,videoplayer" : {
+    "duration" : 5034577,
+    "frequency" : 0,
+    "packageName" : "com.miui.videoplayer"
+  },
+  "com,miui,weather2" : {
+    "duration" : 5156,
+    "frequency" : 0,
+    "packageName" : "com.miui.weather2"
+  },
+  "com,naver,linewebtoon" : {
+    "duration" : 48527521,
+    "frequency" : 6,
+    "packageName" : "com.naver.linewebtoon"
+  },
+  "com,nianticlabs,pokemongo" : {
+    "duration" : 1071817,
+    "frequency" : 0,
+    "packageName" : "com.nianticlabs.pokemongo"
+  },
+  "com,pizzahut,phd" : {
+    "duration" : 571885,
+    "frequency" : 0,
+    "packageName" : "com.pizzahut.phd"
+  },
+  "com,popularapp,sevenmins" : {
+    "duration" : 655618,
+    "frequency" : 0,
+    "packageName" : "com.popularapp.sevenmins"
+  },
+  "com,spotify,music" : {
+    "duration" : 179958,
+    "frequency" : 0,
+    "packageName" : "com.spotify.music"
+  },
+  "com,srigunting,yasin" : {
+    "duration" : 628324,
+    "frequency" : 0,
+    "packageName" : "com.srigunting.yasin"
+  },
+  "com,svox,pico" : {
+    "duration" : 43,
+    "frequency" : 0,
+    "packageName" : "com.svox.pico"
+  },
+  "com,szkct,fundobracelet" : {
+    "duration" : 1160153,
+    "frequency" : 0,
+    "packageName" : "com.szkct.fundobracelet"
+  },
+  "com,tranzmate" : {
+    "duration" : 4461096,
+    "frequency" : 0,
+    "packageName" : "com.tranzmate"
+  },
+  "com,traviangames,traviankingdoms" : {
+    "duration" : 13656629,
+    "frequency" : 0,
+    "packageName" : "com.traviangames.traviankingdoms"
+  },
+  "com,whatsapp" : {
+    "duration" : 64295035,
+    "frequency" : 1,
+    "packageName" : "com.whatsapp"
+  },
+  "com,xiaomi,account" : {
+    "duration" : 2498,
+    "frequency" : 0,
+    "packageName" : "com.xiaomi.account"
+  },
+  "com,xiaomi,hm,health" : {
+    "duration" : 773187,
+    "frequency" : 0,
+    "packageName" : "com.xiaomi.hm.health"
+  },
+  "com,xiaomi,midrop" : {
+    "duration" : 29295,
+    "frequency" : 0,
+    "packageName" : "com.xiaomi.midrop"
+  },
+  "eu,chainfire,supersu" : {
+    "duration" : 224031,
+    "frequency" : 0,
+    "packageName" : "eu.chainfire.supersu"
+  },
+  "jp,naver,line,android" : {
+    "duration" : 558198698,
+    "frequency" : 37,
+    "packageName" : "jp.naver.line.android"
+  },
+  "losebellyfat,flatstomach,absworkout,fatburning" : {
+    "duration" : 9813592,
+    "frequency" : 0,
+    "packageName" : "losebellyfat.flatstomach.absworkout.fatburning"
+  },
+  "no,nordicsemi,android,mcp" : {
+    "duration" : 1745064,
+    "frequency" : 0,
+    "packageName" : "no.nordicsemi.android.mcp"
+  },
+  "org,zwanoo,android,speedtest" : {
+    "duration" : 208277,
+    "frequency" : 0,
+    "packageName" : "org.zwanoo.android.speedtest"
+  },
+  "skripsi,appusagerecorder" : {
+    "duration" : 448849,
+    "frequency" : 0,
+    "packageName" : "skripsi.appusagerecorder"
+  },
+  "src,com,bni" : {
+    "duration" : 5314712,
+    "frequency" : 0,
+    "packageName" : "src.com.bni"
+  }
+}
